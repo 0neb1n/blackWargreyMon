@@ -1,0 +1,6 @@
+Flask
+flask-jsonpify
+flask-restful
+python-jenkins
+pyyaml
+pytest
