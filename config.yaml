@@ -1,3 +1,3 @@
-jenkins_username : 0neb1n
-jenkins_url : http://35.168.206.140:8080
-jenkins_token : 756387a2576137b27518861335ff174f
+jenkins_username : [USERNAME]
+jenkins_url : [URL]
+jenkins_token : [TOKEN]
