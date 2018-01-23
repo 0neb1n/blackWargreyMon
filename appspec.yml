@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: docker/slack_command_docker_image.tar.gz
+  - source: slack_command_image.tar.gz
     destination: /tmp
 hooks:
   ApplicationStop:
