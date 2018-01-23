@@ -1,3 +1,4 @@
+bandit
 Flask
 flask-jsonpify
 flask-restful
